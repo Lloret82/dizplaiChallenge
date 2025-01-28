@@ -86,4 +86,4 @@ What I Added Beyond the Requirements
 
 Poll List View: You can see and switch between all polls (burger menu on mobile)
 Create Poll Button: Added an option to create new polls.
-View Votes : show vote option and timestamp of the vote
+View Votes : show vote option and timestamp of the vote.
